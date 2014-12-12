@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Toggle a touchpad in X.
+# Toggle whether a touchpad is enabled or disabled in X.
 #
 # Originally shared (and likely written) by ferii on askubuntu.com:
 # http://askubuntu.com/a/160549/286269
